@@ -1,6 +1,6 @@
 
 
-## วิธีเริ่มต้นใช้งาน
+## วิธีใช้งาน
 
 ```bash
 git clone https://github.com/patcharapon1999/data-encryption.git
