@@ -1,5 +1,3 @@
-
-
 ## วิธีใช้งาน
 
 ```bash
@@ -8,33 +6,9 @@ cd data-encryption
 npm install
 npm run start:dev
 ```
-
-> http://localhost:3000
-
 ---
 
 ## Swagger API Docs
 ```
 http://localhost:3000/api-docs
 ```
-
-## ตัวอย่างใช้งาน
-
-### ➤ `POST /get-encrypt-data`
-
-```json
-{
-  "payload": "Hello world"
-}
-```
-
-### ➤ `POST /get-decrypt-data`
-
-```json
-{
-  "data1": "...",
-  "data2": "..."
-}
-```
-
----
